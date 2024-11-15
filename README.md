@@ -14,6 +14,6 @@ Run isar code generator:
 To [change package name](https://pub.dev/packages/change_app_package_name):
 `dart run change_app_package_name:main com.new.package.name`
 
-## Screenshots
+### Screenshots
 
 <img src="https://github.com/user-attachments/assets/377f9e2e-04ac-4268-987c-4e7bbef708bf" width="200" />
